@@ -1,0 +1,13 @@
+# File and directories to ignore for Java Form Application in NetBeans
+
+# NetBeans specific files and directories
+nbproject/private/
+nbbuild/
+dist/
+nbactions.xml
+nbdist/
+nb-configuration.xml
+build/
+
+# Compiled output
+build/
